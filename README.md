@@ -20,7 +20,6 @@
 
 <div align="center">
   <a href="https://github.com/maxgsandre">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maxgsandre&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxgsandre&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=1800"/>
   </a>
 </div>
